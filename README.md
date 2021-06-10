@@ -1,14 +1,12 @@
 
-# Project Title
+# US agriculture data analysis
 
-A brief description of what this project does and who it's for
+Data analysis and visualiztion of US agriculture data.
 
 
-## Authors
+Pywedge link
 
-- [@katherinepeterson](https://www.github.com/octokatherine)
-
-  
+[Pywedge](https://pypi.org/project/pywedge/)
 ## Badges
 
 
@@ -18,8 +16,8 @@ A brief description of what this project does and who it's for
   
 ## Related
 
-Pywedge link
+## Authors
 
-[Pywedge](https://pypi.org/project/pywedge/)
+- [@Shah Asif Bashir](https://github.com/shahasifbashir)
 
   
